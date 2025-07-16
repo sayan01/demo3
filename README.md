@@ -1,3 +1,3 @@
 # Research Project
 
-by Sayan
+by Sayan Ghosh
